@@ -1,4 +1,4 @@
 # python_notes
 python学习笔记
 ## 可迭代对象 vs. 迭代器 vs. 生成器
-*容器(containers)
+* 容器(containers)
